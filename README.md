@@ -1,5 +1,7 @@
 
-Instructions for Programming Arduino with USBasp device.
+Instructions for Programming Arduino with USBasp device. 
+
+This will typically help with the dreaded "stk500_recv(): programmer is not responding" error message.
 
 When my Arduino can no longer be programmed with the serial USB port, I use the ICSP pins to reload the bootloader. I've found the single most reliable way to program the Arduino is witha USBASP programmer. You can find them on ebay for just a few bucks. I suggest getting one with 3.3/5V selectable voltage, as well as a 10 pin to 6 pin adapter. (the USBASP typically has 10 pins, Arduino has 6).
 
