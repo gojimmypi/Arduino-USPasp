@@ -33,3 +33,4 @@ After connecting the USBasp to the Arduino, flash a new bootloader onto it:
 
 Be sure to only plug in the USBasp device to the computer, NOT the Arduino (you don't want to have multiple sources powering the Arduino, you might fry something). Remove the ICSP cable if you go back to programming with the on-board Arduino USB connection.
 
+![alt text](https://github.com/gojimmypi/Arduino-USPasp/blob/master/images/BoardExample.png "actual board")
